@@ -38,7 +38,7 @@ const Sidenav = () => {
 
 export default Sidenav;
 
-/*
+/*  -- Some points to remember
 .Stack {
     display: flex,
     flex-direction: column
