@@ -38,14 +38,13 @@ const Sidenav = () => {
 
 export default Sidenav;
 
-
 /*
-Stack {
+.Stack {
     display: flex,
     flex-direction: column
 }
 
-HStack {
+.HStack {
     display: flex,
     alignItems: center;
 }
